@@ -1,9 +1,40 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+title = "Accountantskantoor Kuhlman"
+copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
+# baseURL = "https://akuhlman.nl"
+googleAnalytics = ""
+
+# theme = "hugo-tranquilpeak-theme"
+canonifyurls = true
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+defaultContentLanguage = "nl"
+defaultContentLanguageInSubdir = true
+
+[languages]
+
+  ################################ Dutch Language ########################
+  [languages.nl]
+  languageName = "Nl"
+  languageCode = "nl-nl"
+  contentDir = "content/nl"
+  weight = 1
+  home = "Home"
+  
+  ################################ English Language ########################
+  [languages.en]
+    languageName = "En"
+    languageCode = "en-us"
+    contentDir = "content/en"
+    weight = 2
+    home = "Home"
+      [languages.en.params]
+        portal = "Customer Login"
+
+[params]
+  portal = "Klantportal Login"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

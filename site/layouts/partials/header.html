@@ -1,0 +1,14 @@
+<header class="{{ if .IsHome }}home{{ end }}">
+  <div class="poster"><a href="/"><img src="/images/uploads/kuhlman-accountant.jpg" alt="A.E.J. Kuhlman Accountant"></a></div>
+</header>
+<nav id="main">
+  <div class="title">{{ .Site.Title }}</div class="title">
+  {{ $current := . }}
+  {{ range where .Site.Pages "Params.menu" "main" }}
+  <a href="{{ .RelPermalink }}" {{ if eq .Title $current.Title }} class="active" {{ end }}>
+    <div>{{ .Title }}</div>
+  </a>
+  {{ end }}
+  {{- partial "extra-menu.html" . -}}
+  </div>
+</nav>

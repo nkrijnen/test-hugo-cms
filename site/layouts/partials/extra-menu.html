@@ -1,0 +1,13 @@
+<a target="_blank" href="https://klantportal.akuhlman.nl/">
+  <div>{{ $.Site.Params.portal }}</div>
+</a>
+{{ if eq .Language.Lang "nl" }}
+<a class="flag" href="/en" title="Switch to English site">
+  <div>🇬🇧</div>
+</a>
+{{ end }}
+{{ if eq .Language.Lang "en" }}
+<a class="flag" href="/nl" title="Wissel naar Nederlandse website">
+  <div>🇳🇱</div>
+</a>
+{{ end }}

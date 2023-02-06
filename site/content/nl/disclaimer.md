@@ -1,0 +1,10 @@
+---
+title: Disclaimer
+---
+# Disclaimer Accountantskantoor Kuhlman
+
+Accountantskantoor Kuhlman heeft er alles aan gedaan om te verzekeren dat de informatie op deze internetsite correct is. Toch zou er iets aan onze aandacht ontsnapt kunnen zijn. In geen geval is Accountantskantoor Kuhlman aansprakelijk voor enige directe of indirecte schade als gevolg van of in verband met het gebruik van de op deze website beschikbare informatie of documenten. Accountantskantoor Kuhlman kan niet verantwoordelijk gehouden worden voor de inhoud van enige site die aan deze site via een link verbonden is.
+
+## Emaildisclaimer
+
+De informatie verzonden met dit e-mailbericht is uitsluitend bestemd voor de geadresseerde(n) en kan persoonlijke of vertrouwelijke informatie bevatten, beschermd door een beroepsgeheim. Gebruik van deze informatie door anderen dan de geadresseerde(n) en gebruik door hen die niet gerechtigd zijn van deze informatie kennis te nemen, is verboden. Indien u niet de geadresseerde en of niet gerechtigd bent tot kennisneming, is openbaarmaking, vermenigvuldiging, verspreiding en/of verstrekking van deze informatie aan derden niet toegestaan en wordt u verzocht dit bericht terug te sturen en het origineel te vernietigen. Tenzij uitdrukkelijk anders vermeld, is op dit bericht of in enige bijlage opgenomen verantwoording(en) door ons geen accountantscontrole toegepast. Accountantskantoor Kuhlman B.V. is ingeschreven bij de KVK te Amsterdam onder nummer 33193811. Op onze dienstverlening zijn onze algemene voorwaarden van toepassing, waarin een beperking van onze aansprakelijkheid is opgenomen. Ze zijn gedeponeerd bij de KVK te Amsterdam. Ze zijn tevens te raadplegen op [www.akuhlman.nl](https://www.akuhlman.nl) en op uw eerste verzoek zal u gratis een exemplaar worden toegezonden.
