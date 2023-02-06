@@ -1,7 +1,7 @@
 [build.environment]
   NETLIFY_USE_YARN = "true"
   YARN_VERSION = "1.22.17"
-  HUGO_VERSION = "0.63.1"
+  HUGO_VERSION = "0.85.0"
 
 [build]
   command = "yarn build"
