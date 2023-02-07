@@ -1,6 +1,6 @@
 ---
 title: Services
-menu: true
+menu: main
 weight: 20
 ---
 We provide the following services to companies, private persons and foundations:

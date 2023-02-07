@@ -1,6 +1,6 @@
 ---
 title: Our clients
-menu: true
+menu: main
 weight: 30
 ---
 Accountantskantoor Kuhlman exist already more than 25 years and provide services to companies, private persons and foundations. So for from big companies to very small companies:

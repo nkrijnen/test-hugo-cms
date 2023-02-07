@@ -1,6 +1,6 @@
 ---
 title: Contact
-menu: true
+menu: main
 weight: 50
 ---
 A.E.J. Kuhlman AA VA\

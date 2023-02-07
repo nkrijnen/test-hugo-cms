@@ -1,6 +1,6 @@
 ---
 title: Home
-menu: true
+menu: main
 weight: 10
 ---
 Accountantskantoor Kuhlman is an accounting and tax firm. A.E.J. Kuhlman AA VA started as an accountant at Rembrandtweg 665 B in Amstelveen more than 25 years ago.
