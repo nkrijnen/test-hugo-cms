@@ -1,6 +1,6 @@
 ---
 title: Diensten
-menu: main
+menu: true
 weight: 20
 ---
 Accountantskantoor Kuhlman kan voor u de volgende werkzaamheden verrichten:

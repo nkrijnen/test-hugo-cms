@@ -1,6 +1,6 @@
 ---
 title: Over ons
-menu: main
+menu: true
 weight: 40
 ---
 

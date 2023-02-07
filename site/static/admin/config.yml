@@ -12,8 +12,8 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Menu", name: "menu", default: "main", widget: "string"}
-      - {label: "Menu order", name: "weight", widget: "number"}
+      - {label: "Show in main menu", name: "menu", default: true, widget: "boolean"}
+      - {label: "Menu order", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: en
     label: Pages EN
@@ -21,6 +21,6 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Menu", name: "menu", default: "main", widget: "string"}
-      - {label: "Menu order", name: "weight", widget: "number"}
+      - {label: "Show in main menu", name: "menu", default: true, widget: "boolean"}
+      - {label: "Menu order", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown"}

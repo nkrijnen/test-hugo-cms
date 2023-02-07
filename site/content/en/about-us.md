@@ -1,6 +1,6 @@
 ---
 title: About us
-menu: main
+menu: true
 weight: 40
 ---
 
