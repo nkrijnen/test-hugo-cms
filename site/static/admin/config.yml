@@ -12,7 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Show in main menu", name: "menu", default: true, widget: "boolean"}
+      - {label: "Menu", name: "menu", widget: "select", options: ["main", ""], default: ["main"]}
       - {label: "Menu order", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: en
@@ -21,6 +21,6 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Show in main menu", name: "menu", default: true, widget: "boolean"}
+      - {label: "Menu", name: "menu", widget: "select", options: ["main", ""], default: ["main"]}
       - {label: "Menu order", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
