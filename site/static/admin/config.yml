@@ -7,7 +7,7 @@ public_folder: "images/uploads" # The src attribute for uploaded media will begi
 
 collections: # A list of collections the CMS should be able to edit
   - name: nl
-    label: Nederlands
+    label: Pages NL
     folder: site/content/nl
     create: true
     fields:
@@ -16,7 +16,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Menu order", name: "weight", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: en
-    label: English
+    label: Pages EN
     folder: site/content/en
     create: true
     fields:
