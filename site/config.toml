@@ -1,10 +1,8 @@
 title = "Accountantskantoor Kuhlman"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2023 Accountantskantoor Kuhlman"
 
-# baseURL = "https://akuhlman.nl"
 googleAnalytics = ""
 
-# theme = "hugo-tranquilpeak-theme"
 canonifyurls = true
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
