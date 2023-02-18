@@ -7,6 +7,10 @@ A.E.J. Kuhlman AA VA is 25 jaar geleden gestart als MKB-accountant in Amstelveen
 
 ![](images/uploads/rkuhlman-296x300.jpg)
 
+
+
+![](images/uploads/dall·e-2023-02-17-09.58.58-the-tower-of-babel-in-a-high-tech-futuristic-and-idealistic-landscape.png)
+
 Accountantskantoor Kuhlman werkt voor MKB bedrijven, stichtingen en privépersonen.
 
 U kunt bij ons terecht voor bijvoorbeeld:
