@@ -5,6 +5,8 @@ weight: 10
 ---
 A.E.J. Kuhlman AA VA is 25 jaar geleden gestart als MKB-accountant in Amstelveen en heeft zich gevestigd op de Rembrandtweg 665 B.
 
+![](images/uploads/rkuhlman-296x300.jpg)
+
 Accountantskantoor Kuhlman werkt voor MKB bedrijven, stichtingen en privépersonen.
 
 U kunt bij ons terecht voor bijvoorbeeld:
